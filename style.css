@@ -1,0 +1,173 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    border-image-width: 200px;
+    
+    justify-content: center;
+    background-color: whitesmoke;
+    
+}
+
+
+header h1{
+    font-size: 60px;
+    color: brown;
+    text-transform: uppercase;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    display: flex;
+
+    
+}
+
+header img {
+    position: absolute;
+    left: 0;
+    top: 0;
+
+    width: 100px;
+    height: auto;
+}
+
+header li:Welcome to CCC projects {
+    background-color: royalblue;
+
+}
+header u1 {
+    display: flex;
+    gap: 10px;
+
+    list-style: none;
+    
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+
+}
+
+body {
+    margin: 0;
+    background-image: url(images/brown.avif);
+    background-attachment: fixed;
+    
+}
+
+
+img{
+    width: 200px;
+    height: auto;
+}
+
+div.box {
+    width: 300px;
+    border: 2px solid black;
+    padding: 10px;
+
+}
+
+div.container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    align-items: flex-end;
+    flex-wrap: wrap;
+}
+
+main.h2 {
+    text-align: center;
+    font-size: 50px;
+    color: black;
+    margin-top: 100px;
+    
+}
+
+div.Card {
+    background-color: rgba(231, 194, 138, 0.867);
+    width: 500px;
+    padding: 30px;
+    margin-bottom: 30px;
+
+    margin-left: auto;
+    margin-right: auto;
+
+    border-radius: 30px;
+
+    box-shadow: red;
+    border: silver;
+
+    text-align: center;
+
+}
+
+div.Card img {
+    width: 500px;
+    border-radius: 30px;
+}
+
+div.Card h2{
+    font-size: 40px;
+    color: rgb(120, 30, 30);
+}
+
+div.Card p{
+    font-style: oblique;
+    font-size: medium;
+}
+
+footer img {
+    width: 50px;
+    position: relative; 
+    right: 0;
+    top: 50px;
+
+    justify-content: flex-end;
+
+}
+
+footer{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px;
+    height: 100px;
+    background-color: whitesmoke;
+
+}
+
+footer li{
+    list-style: none;
+    font-style: italic;
+    font-size: normal;
+    display: inline-flex;
+    gap: 10px;
+    
+    
+}
+
+
+.login-box {
+    background: fixed;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: black;
+    width: 300px;
+    text-align: center;
+}
+
+.login-box h2 {
+    margin-bottom: 20px;
+    color: lightseagreen;
+
+}
+
+.login-box label {
+    display: block;
+    text-align: left;
+    margin: 10px 0 5px;
+    color: lightseagreen;
+
+}
+
